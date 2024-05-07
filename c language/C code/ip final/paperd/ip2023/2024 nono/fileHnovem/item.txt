@@ -1,0 +1,6 @@
+Item Number	Quantity Sold	Price of oneitem(Rs)
+
+110		 2		 12000.00
+233		 6		 5000.00
+320		 2		 10000.00
+100		 5		 1500.00
